@@ -77,6 +77,7 @@ LED 通过不同闪烁频率表示当前档位。
 相关图片和视频可在**images**中查看。
 
 ---
+![Result Image](images/result1.jpg)
 
 ---
 
